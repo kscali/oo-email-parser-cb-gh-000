@@ -10,7 +10,7 @@ class EmailParser
   end   
     
     
-  end   
+  
   
   
   
